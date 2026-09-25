@@ -3,7 +3,7 @@
 Sistema de gestión para renta de vehículos desarrollado con Python y ZODB.
 
 ## Integrantes
-* **Helena Martínez** (ux24ii401) - *Desarrollo de Modelos, Persistencia ZODB y Consultas*
+* **Helena Martínez** (ux24ii401) 
 
 ## Tecnologías
 * Python 3.x
